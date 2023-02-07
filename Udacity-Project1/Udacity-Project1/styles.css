@@ -1,0 +1,39 @@
+
+
+#card{
+  width:300px;
+  padding:20px;
+  border:1px solid rgb(220, 217, 213) ;
+  box-shadow:5px 5px rgb(220, 217, 213) ;
+  border-radius: 15px;
+
+  
+}
+
+.picture{
+  margin-bottom: 10px;
+  width:300px;
+  height:200px;
+}
+.title {
+  margin:10px;
+  font-weight:bold;
+  font-size: 25px;
+}
+#card-info{
+  margin:15px;
+  padding:10px;
+  border:1px rgb(220, 217, 213) solid;
+  
+   
+}
+.list{
+  list-style:none;
+  
+}
+.label{
+   font-weight:bold;
+}
+.fact{
+   font-style:italic;
+}
